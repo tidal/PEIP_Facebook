@@ -17,7 +17,7 @@
  * @implements PEIP_INF_Container, PEIP_INF_Message, PEIP_INF_Buildable
  */
 class PEIP_Facebook_Request_Message 
-	extends PEIP_Generice_Message {
+	extends PEIP_Generic_Message {
 		
     protected 
     	$headers = array(
